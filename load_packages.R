@@ -1,0 +1,17 @@
+#### packages to be installed
+library(xlsx)
+library(caret)
+library(rpart)
+library(svDialogs)
+library(tcltk)
+library(ggplot2)
+library(dplyr)
+library(relimp)
+library(colourpicker)
+library(party)
+library(randomForest)
+library(class)
+library(naivebayes)
+library(e1071)
+library(xgboost)
+##############################

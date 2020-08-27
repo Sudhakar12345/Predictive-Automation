@@ -1,0 +1,10 @@
+17/02/22 14:11:18 INFO SparkContext: Invoking stop() from shutdown hook
+17/02/22 14:11:20 INFO SparkUI: Stopped Spark web UI at http://127.0.0.1:4040
+17/02/22 14:11:21 INFO MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!
+17/02/22 14:11:22 INFO MemoryStore: MemoryStore cleared
+17/02/22 14:11:22 INFO BlockManager: BlockManager stopped
+17/02/22 14:11:22 INFO BlockManagerMaster: BlockManagerMaster stopped
+17/02/22 14:11:23 INFO OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!
+17/02/22 14:11:23 INFO SparkContext: Successfully stopped SparkContext
+17/02/22 14:11:23 INFO ShutdownHookManager: Shutdown hook called
+17/02/22 14:11:23 INFO ShutdownHookManager: Deleting directory /tmp/spark-64cd0ee2-dcc1-428b-961d-adb1b0acff0b
